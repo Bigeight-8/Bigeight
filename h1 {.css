@@ -41,6 +41,18 @@ img.example4 {
 	width: 300px;
 	height: 200px;
 }
+img.example1:hover {
+	opacity: 0.7;
+}
+img.example2:hover {
+	opacity: 0.7;
+}
+img.example3:hover {
+	opacity: 0.7;
+}
+img.example4:hover {
+	opacity: 0.7;
+}
 .footer {
 	float: left;
 	height: 120px;
