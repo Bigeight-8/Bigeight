@@ -28,18 +28,22 @@ body {
 img.example1 {
 	width: 300px;
 	height: 200px;
+	cursor: pointer;
 }
 img.example2 {
 	width: 300px;
 	height: 200px;
+	cursor: pointer;
 }
 img.example3 {
 	width: 300px;
 	height: 200px;
+	cursor: pointer;
 }
 img.example4 {
 	width: 300px;
 	height: 200px;
+	cursor: pointer;
 }
 img.example1:hover {
 	opacity: 0.7;
@@ -53,6 +57,7 @@ img.example3:hover {
 img.example4:hover {
 	opacity: 0.7;
 }
+
 .footer {
 	float: left;
 	height: 120px;
